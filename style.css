@@ -1090,11 +1090,18 @@ img {
 }
 .form textarea {
   height: 120px;
+  color: #fff;
 }
 .form button {
   margin: 0;
   padding: 7px 40px;
   background: none;
+}
+#form_contato input {
+  color: #000;
+}
+#form_contato textarea {
+  color: #000;
 }
 .orcamento_dados {
   color: #fff;
