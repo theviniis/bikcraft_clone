@@ -1063,6 +1063,7 @@ img {
   padding-right: 60px;
 }
 .form label {
+  color: #fff;
   display: block;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 18px;
