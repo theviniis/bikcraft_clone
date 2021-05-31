@@ -1070,6 +1070,9 @@ img {
   line-height: 25px;
   margin-bottom: 4px;
 }
+.form label {
+  color: #fff;
+}
 .label-branco {
   color: #fff;
 }
@@ -1102,6 +1105,9 @@ img {
   color: #000;
 }
 #form_contato textarea {
+  color: #000;
+}
+.form label {
   color: #000;
 }
 .orcamento_dados {
