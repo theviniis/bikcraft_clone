@@ -952,15 +952,6 @@ img {
   line-height: 25px;
   margin-bottom: 4px;
 }
-.form label {
-  color: #fff;
-}
-.label-branco {
-  color: #fff;
-}
-.label-preto {
-  color: #000;
-}
 .form input,
 .form textarea {
   display: block;
@@ -989,7 +980,7 @@ img {
 #form_contato textarea {
   color: #000;
 }
-.form label {
+#form_contato label {
   color: #000;
 }
 .orcamento_dados {
