@@ -517,6 +517,7 @@ img {
   margin: 13px auto;
 }
 .quote-externo cite {
+  color: #fff;
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -658,6 +659,13 @@ img {
 }
 .quebra .quote-externo {
   max-width: 400px;
+}
+#quebra-cite {
+  color: #fff;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.1em;
 }
 .footer {
   width: 100%;
